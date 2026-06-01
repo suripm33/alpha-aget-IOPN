@@ -1,2 +1,2 @@
-# alpha-aget-IOPN
+# alpha-agent-IOPN
 AI assistant for Web3 builders, testnet tasks, and on-chain project research on OPN Chain.
